@@ -8,14 +8,6 @@ A modern, responsive coffee shop website built with React, Vite, and Tailwind CS
 
 👉 [https://coffee-cafe-reactjs.netlify.app/]
 
-## Features ✨
-
-- **Responsive Design**: Works seamlessly on mobile, tablet, and desktop
-- **Interactive Menu**: Browse coffee selections with filters and categories
-- **Online Ordering**: Add items to cart and proceed to checkout
-- **Customer Reviews**: Testimonials with star ratings
-- **Promotional Sections**: Highlight seasonal drinks and specials
-
 ## Technologies Used 🛠️
 
 - ⚛️ React 
