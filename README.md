@@ -1,6 +1,6 @@
 # Coffee Cafe - Frontend Website ☕
 
-A modern, responsive coffee shop website built with React, Vite, and Tailwind CSS (optional). Features menu browsing, online ordering, store locator, and more.
+A modern, responsive coffee shop website built with React, Vite, and Tailwind CSS. Features menu browsing, online ordering, store locator, and more.
 
 ![Demo Screenshot](./public/demo.png) 
 
